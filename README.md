@@ -2,9 +2,9 @@
 #### Web Developer | Programmer
 ![Web Developer | Programmer](https://media.licdn.com/dms/image/D5616AQEVClA3DyoMqw/profile-displaybackgroundimage-shrink_350_1400/0/1695189828195?e=1700697600&v=beta&t=4-4Y0_zwosKvBeMLCaY0M2GTuHqaGF0MuyeUfx4ft3U)
 
-I am a MERN Stack Developer with a passion for building scalable and user-friendly web applications. I am also proficient in C, C++, Python, and Java, which gives me a strong foundation in programming fundamentals and allows me to work on a wider range of projects. I am a highly motivated and results-oriented individual with a strong work ethic. I am also a quick learner and I am always eager to take on new challenges. I am confident that my skills and experience would be a valuable asset to any team.
+I am a MERN Stack Developer with a passion for building scalable and user-friendly web applications. I am also proficient in Go, C/C++, and JavaScript which gives me a strong foundation in programming fundamentals and allows me to work on a wider range of projects. I am a highly motivated and results-oriented individual with a strong work ethic. I am also a quick learner and I am always eager to take on new challenges. I am confident that my skills and experience would be a valuable asset to any team.
 
-Skills: REACT / EXPRESS / NODE / JS / C / C++ / JAVA / PYTHON / PHP / MySQL / MONGODB / HTML / CSS / DOCKER / GITHUB
+Skills: React.js / Express.js / Next.js / Node.js / JavaScript / C / C++ / Go/ MySQL / MongoDB / HTML5 / CSS3 / PostgreSQL
 
 - 🔭 I’m currently working on MERN stack project 
 - 🌱 I’m currently learning Docker & Selenium Testing 
