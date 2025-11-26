@@ -4,8 +4,6 @@
 
 ### 💻 Web Developer | Programmer
 
-![Web Developer Banner](https://media.licdn.com/dms/image/D5616AQEVClA3DyoMqw/profile-displaybackgroundimage-shrink_350_1400/0/1695189828195?e=1700697600&v=beta&t=4-4Y0_zwosKvBeMLCaY0M2GTuHqaGF0MuyeUfx4ft3U)
-
 </div>
 
 ---
